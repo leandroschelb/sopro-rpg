@@ -1,0 +1,2 @@
+\contentsline {section}{\numberline {1}Magias}{1}{section.1}
+\contentsline {section}{\numberline {2}Talentos}{4}{section.2}
